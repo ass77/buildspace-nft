@@ -1,4 +1,4 @@
-# buildspace - Minting own NFT collection project with svg + three random word generator
+# buildspace - Minting own NFT collection project with svg and three random word generator
 
 
 
